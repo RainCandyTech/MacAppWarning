@@ -1,5 +1,5 @@
 # MacAppWarning
-该项目创建的目的是为了提醒部分用户有关部分 macOS 应用程序下载站的问题。
+该项目创建的目的是为了提醒部分用户有关部分第三方 macOS 应用程序下载站的问题。
 
 # Introduction
 首先要说的是，Alludo / Parallels 在 2023 年 8 月 22 日发布了 Parallels Desktop 19。<br>
